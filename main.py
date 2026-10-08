@@ -7,13 +7,13 @@
  ve ses sentezleme teknolojisi ile harmanlayan öğretim amaçlı bir oyundur.
 
  Kullanılan Teknolojiler: Python 3, Pygame
- Yazar: Antigravity AI
 ===================================================================
 """
 
 import os
 import sys
 import json
+import math
 import random
 import pygame
 
